@@ -6,7 +6,7 @@ public class Hacker : MonoBehaviour {
     const string menuHint = "You may type menu at any time.";
     string[] level1Passwords = { "books", "aisle", "shelf", "password", "font", "borrow" };
     string[] level2Passwords = { "prisoner", "handcuffs", "holster", "uniform", "arrest" };
-    string[] level3Passwords = { "starfield", "telescope", "environment", "exploration", "astronauts" };
+    string[] level3Passwords = { "moon", "telescope", "plants", "exploration", "astronauts", "perseverance" };
 
     // Game state
     int level;
